@@ -1,0 +1,6 @@
+image: docker.pipem.io/provider-cloudflare
+version: VERSION
+
+replicas: 1
+
+provider: cloudflare
